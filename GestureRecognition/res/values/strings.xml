@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndgeeTest</string>
+    <string name="app_name">Andgee Improvement</string>
+    <string name="btn_start">Start Gesture Recording</string>
+    <string name="btn_stop">Stop Gesture Recording</string>
+    <string name="btn_learn">Train Gesture HMM</string>
+    <string name="btn_load">Load Existing HMM</string>
+    <string name="show_status">Gestures will be wirtten to : </string>
+    <string name="status">First input gestures and then train the HMM model</string>
+    <string name="instruction">Instruction:\n\t\tFirst you need to input gestures, now this program only offers 4 kinds of gestures, for example you can define "Left" "Right" "Up" "Down", and every gesture 
+        you need input 5 times for good accuracy.\n \t\tSecond, you should train the HMM model, and after it is done, you can do gesture recognition freely without touch any thing, where the result is showing in the screen.  </string>
+</resources>
